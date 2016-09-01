@@ -29,7 +29,7 @@
                     </div>
                 </div>
 ///////////////////////////////////////////////
-                <div class="tab">
+                #<div class="tab">
                     <div class="tab-key">
                         <ul>
                             <li>tab1</li>
@@ -56,7 +56,7 @@
                     </div>
                 </div>
 
-                <div class="tab02">
+                #<div class="tab02">
                     <div class="tab-key02">
                         <ul>
                             <li>tab1</li>
