@@ -1,8 +1,8 @@
 # tab
 //////////////////////////////////////////////
-<html source>
+html source
 /////////////////////////////////////////////
-#<div class="tab">
+<div class="tab">
                     <div class="tab-key">
                         <ul>
                             <li>tab1</li>
@@ -28,64 +28,12 @@
                         </dl>
                     </div>
                 </div>
-///////////////////////////////////////////////
-#<div class="tab">
-                    <div class="tab-key">
-                        <ul>
-                            <li>tab1</li>
-                            <li>tab2</li>
-                            <li>tab3</li>
-                            <li>tab4</li>
-                        </ul>
-                    </div>
-                    <div class="tab-con">
-                        <dl>
-                            <dd>
-                                con1
-                            </dd>
-                            <dd>
-                                con2
-                            </dd>
-                            <dd>
-                                con3
-                            </dd>
-                            <dd>
-                                con4
-                            </dd>
-                        </dl>
-                    </div>
-                </div>
-#<div class="tab02">
-                    <div class="tab-key02">
-                        <ul>
-                            <li>tab1</li>
-                            <li>tab2</li>
-                            <li>tab3</li>
-                            <li>tab4</li>
-                        </ul>
-                    </div>
-                    <div class="tab-con02">
-                        <dl>
-                            <dd>
-                                con1
-                            </dd>
-                            <dd>
-                                con2
-                            </dd>
-                            <dd>
-                                con3
-                            </dd>
-                            <dd>
-                                con4
-                            </dd>
-                        </dl>
-                    </div>
-                </div>
+
   ////////////////////////////////////////////
   css file
   ///////////////////////////////////////////
   .tab,
-    .tab02 {
+  .tab02 {
         width: 100%;
     }
     
